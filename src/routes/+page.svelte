@@ -55,7 +55,7 @@
 
 <div class="container">
   <h1>Welcome to the Thaw De Zin Computer Shop!</h1>
-  <p>This is a simple website created for testing web crawling and scraping tools. All data is randomly generated.</p>
+  <p>This is a simple website created for testing web crawling and scraping tools. All data is randomly generated. I can develop app for you thawdezin@duck.com </p>
 
   <nav class="categories-nav">
     <h2>Categories</h2>
@@ -102,7 +102,7 @@
   </div>
 
   <footer class="footer">
-    <p>&copy; 2025 Dummy Computer Shop. All rights reserved.</p>
+    <p>&copy; 2025 Thaw De Zin Computer Shop. All rights reserved.</p>
     <a href="/about">About Us</a> |
     <a href="/contact">Contact</a> |
     <a href="/privacy">Privacy Policy</a>

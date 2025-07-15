@@ -1,13 +1,18 @@
-// // See https://svelte.dev/docs/kit/types#app.d.ts
-// // for information about these interfaces
-// declare global {
-// 	namespace App {
-// 		// interface Error {}
-// 		// interface Locals {}
-// 		// interface PageData {}
-// 		// interface PageState {}
-// 		// interface Platform {}
-// 	}
-// }
+// src/app.d.ts
+// See https://kit.svelte.dev/docs/types#app
+// for information about these interfaces
+declare global {
+    namespace App {
+        // interface Error {}
+        interface Locals {
+            user?: {
+                userId: string;
+                // Add any other properties from your decoded token here
+            };
+        }
+        // interface PageData {}
+        // interface Platform {}
+    }
+}
 
-// export {};
+export {};

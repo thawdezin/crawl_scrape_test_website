@@ -11,7 +11,7 @@
   <p>Since this is a dummy website for testing purposes, we do not have real contact information. However, you can imagine reaching us through the following:</p>
 
   <div class="contact-info">
-    <p><strong>Email:</strong> <a href="mailto:info@dummycomputershop.com">info@dummycomputershop.com</a></p>
+    <p><strong>Email:</strong> <a href="mailto:thawdezin@duck.com">thawdezin@duck.com</a></p>
     <p><strong>Phone:</strong> +1 (555) 123-4567</p>
     <p><strong>Address:</strong> 123 Test Street, Dummy City, 12345, Imaginary Land</p>
   </div>
